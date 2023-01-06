@@ -1,3 +1,4 @@
+![logo](https://github.com/Diganta2804/Diganta2804/blob/main/Screenshot%20(243).png)
 <h1 align="center">Hi 👋, I'm Diganta Dutta</h1>
 <h3 align="center">An Engineering student from India</h3>
 
